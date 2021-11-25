@@ -4,5 +4,5 @@
 - Instead of saving the result of the build in the same directory as our code, Cargo stores it in the target/debug directory.
 - When your project is finally ready for release, you can use `cargo build --release`
 
-full documentation is here `% rustup doc`
-packages documentation is here `% cargo doc --open`
+- full documentation is here `% rustup doc`
+- packages documentation is here `% cargo doc --open`
